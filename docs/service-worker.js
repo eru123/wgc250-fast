@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wgc250-fast/precache-manifest.701754a3c1358f6b605423a6a132a55f.js"
+  "/wgc250-fast/precache-manifest.b7f1fb80eac2b4ba3e1bf624805b0398.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wgcorp250"});
