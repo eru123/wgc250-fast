@@ -38,7 +38,7 @@ export default {
   name: "Home",
   data: () => ({
     loading: false,
-    code: "JENREG70300756",
+    code: "",
     captcha_e: false,
     captcha_q: [],
     captcha_a: []
